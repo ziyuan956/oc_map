@@ -1,0 +1,5 @@
+{
+  "name": "MythosForge",
+  "description": "A fantasy map generator for OC creators, using a dual-engine approach to create geographically logical and aesthetically pleasing maps.",
+  "requestFramePermissions": []
+}
